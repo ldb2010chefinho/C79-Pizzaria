@@ -1,6 +1,7 @@
 body{
-	background-color:gray ;
-	background-repeat: no-repeat; 
+	background-image: url("parede\ fnaf.jpg");
+	background-repeat: repeat;
+    background-size: contain;
 }
 
 .topnav {
@@ -124,6 +125,8 @@ body{
  #poster {
     width: 100%;
  }
- #banda{
-	background-position: center;
+ #Banda{
+	width: 450px;
+	height: 388px;
+	margin-left: 450px;
  }
